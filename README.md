@@ -6,3 +6,5 @@ TODO
 - most swearing person
 - sentimental analysis
 - dashboard for analytics
+- pickle english and turkish vocab 
+- include data folder
